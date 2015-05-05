@@ -1,9 +1,9 @@
+---
 tags:
-  - hashes
-  - kids
-  - ruby
+- hashes
+- kids
 languages:
-  - ruby
+- ruby
 level: 3
 type:
-  - code challenge
+- code challenge
