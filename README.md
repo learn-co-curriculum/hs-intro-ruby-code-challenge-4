@@ -9,5 +9,5 @@
 
 In the `least_coins.rb` file, write a method called `least_coins`.
 
-Given a number of cents as an argument, the method should return a hash with the least number of coins that it would take to make that amount. Run `rspec` to check your answer.
+Given a number of cents as an argument, the method should return a hash with the least number of coins that it would take to make that amount. Run `learn` to check your answer.
 
