@@ -1,9 +1,4 @@
----
-  tags: hashes, kids, ruby  
-  languages: ruby
-  level: 3
-  type: code challenge
----
+
 ### Least Coins Challenge
 <img src="https://after-school-assets.s3.amazonaws.com/challenge.png" width="200px" align="right" hspace="10"> 
 
