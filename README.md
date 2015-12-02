@@ -8,3 +8,5 @@ Given a number of cents as an argument, the method should return a hash with the
 
 Run `learn` to check your answer!
 
+
+<a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-4' data-visibility='hidden'>View this lesson on Learn.co</a>
